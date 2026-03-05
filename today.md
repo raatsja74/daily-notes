@@ -1,4 +1,4 @@
-# Daily Note
+# 🗓️ Daily Note
 ---
 
 > [!info]- Agent? Start here → [[START]]
