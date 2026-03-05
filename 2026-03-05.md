@@ -12,8 +12,15 @@
 
 ## 📌 Important Notes (links)
 - [START.md](obsidian://open?vault=%E2%98%85%20Main%20Vault&file=START)
+	- A **START HERE checklist** an AI agent can skim in 30 seconds to know exactly what to read first, where the real task priorities live (Todoist), how to navigate your vault/projects, and the rules to follow before doing any work.
 - [CONTEXT.md](obsidian://open?vault=%E2%98%85%20Main%20Vault&file=CONTEXT)
-- 
+	- A **30-second operating manual** you (or an AI agent/contractor) can skim to immediately understand who you are, what you’re running, how you organize work/files, and the rules to follow so nothing gets messy.
+- [Project Registry](obsidian://open?vault=%E2%98%85%20Main%20Vault&file=90%20Systems%2FProject%20Registry) 
+	- This is your **Project Registry**—a single reference page that maps each project to its Obsidian notes, code repo path, task source (Todoist), and any supporting links/files so you can jump to the right “source of truth” instantly without hunting.
+- [System Roadmap](obsidian://open?vault=%E2%98%85%20Main%20Vault&file=90%20Systems%2FSYSTEM-ROADMAP)
+	- This is your **Main Vault System Roadmap**—a prioritized backlog of Obsidian/workflow upgrades (cleanup, notification/email consolidation, and cross-tool sync/AI instruction standardization) to keep the vault lean, fast, and agent-friendly while pushing heavy assets and “done work” history into the right places.
+- [Metadata Standard](obsidian://open?vault=%E2%98%85%20Main%20Vault&file=90%20Systems%2FMetadata%20Standard)
+	- This note is your **vault-wide metadata standard**—a simple, enforceable schema (required kind + minimal namespaced tags) that keeps Obsidian organized, searchable, and consistent, while preventing tag mess and making filtering/reporting reliable.
 
 ---
 ```button
