@@ -48,3 +48,29 @@ color default
 %% SHARE_END %%
 
 # Log
+This shortcut captures a screenshot, copies it to the clipboard, uses ChatGPT to generate a brief summary of the screenshot, and appends the summary to a daily notes file named with the current date in Markdown format.
+Here’s a concise summary you can log in your daily note:  
+
+---
+
+**GitHub Raw URL + Make.com Automation**  
+- Use the file’s **raw GitHub URL** to bypass authentication.  
+- In **Make.com**, add an **HTTP module → Make a request**.  
+- Paste the raw URL into the **URL field**, method **GET**.  
+- Running the module pulls the **raw markdown** of your daily note.  
+- Output can be sent to **Claude, ChatGPT, Notion**, or other tools for workflow automation.  
+
+---
+
+**6:09 AM – Perplexity**  
+- Confirmed GitHub repository visibility successfully set to **Public**.  
+- Public `today.md` file can be accessed via direct **raw URL** without authentication.  
+- Example raw URL provided: `https://raw.githubusercontent.com/raatsja74...`  
+- Instruction for **Make.com** automation:  
+  1. Add an **HTTP** module → select **“Make a request”**.
+**Obsidian – 2026-02-20**  
+
+- Reflected on how things stay pure as they grow and become mainstream (#idea).  
+- Recorded being on a podcast with Greg Isenberg.  
+- Quick Wrap prompts: explored new things, progress made, identified bottlenecks, carry-over task for tomorrow, reminder to run `/close-day`.  
+- Commands overview for daily operations and thinking tools: `/context`, `/today`, `/close-day`, `/week`, `/schedule`, `/xdaily`, `/ghost`, `/challenge`.
