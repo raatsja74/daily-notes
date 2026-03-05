@@ -46,3 +46,5 @@ color default
 %% SHARE_START %%
 
 %% SHARE_END %%
+
+# Log
