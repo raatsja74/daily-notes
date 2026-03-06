@@ -30,6 +30,7 @@ action Todoist completed tasks: Fetch today's completed tasks
 color default
 ```
 %% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
 %% COMPLETED_TODOIST_TASKS_END %%
 
 > [!links]+ Quick Access
@@ -87,3 +88,7 @@ Listening to *Claude Code marketing masterclass [from idea to making $$]* on **T
 Episode features Cody Schneider discussing GTM (go-to-market) engineering with AI agents using Claude Code. 43 minutes left in the episode.  
 Currently connected to **MINE airpoos** for playback.
 [FB marketing Workflow](https://www.youtube.com/watch?v=m3IvDzX3PL8)
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
