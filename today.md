@@ -74,3 +74,8 @@ Here’s a concise summary you can log in your daily note:
 - Recorded being on a podcast with Greg Isenberg.  
 - Quick Wrap prompts: explored new things, progress made, identified bottlenecks, carry-over task for tomorrow, reminder to run `/close-day`.  
 - Commands overview for daily operations and thinking tools: `/context`, `/today`, `/close-day`, `/week`, `/schedule`, `/xdaily`, `/ghost`, `/challenge`.
+I’m a local Phoenix small business owner and I understand my post came across as promotional. My intent was to share educational home-maintenance info, not spam neighbors. I respect the guideline limiting promotional posts and will follow it strictly going forward (max one promo post/week, more community-helpful Q&A content, no repetitive sales copy). I’ve reviewed the policy and will adjust my posting approach immediately. Please reconsider and restore my account early if possible. Thank you
+**Nextdoor – 5:19 PM**  
+Account temporarily suspended for violating the **No Spam** guideline with a promotional post about garage floor repairs.  
+Account locked until **April 4**.  
+Appeal submitted on **03/06/26**, decision expected within 24 hours.
