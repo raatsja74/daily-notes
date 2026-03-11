@@ -36,6 +36,7 @@ action Todoist completed tasks: Fetch today's completed tasks
 color default
 ```
 %% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
 %% COMPLETED_TODOIST_TASKS_END %%
 
 > [!links]+ Quick Access
@@ -64,3 +65,7 @@ Built 13,000+ programmatic pages in 3 hours, resulting in:
 - ~50% of pages not yet indexed  
 
 No template spam or thin AI content; system generates content programmatically like software.
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
