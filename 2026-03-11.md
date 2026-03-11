@@ -52,3 +52,15 @@ color default
 %% SHARE_START %%
 
 %% SHARE_END %%
+
+**X.com – 2:51 PM · 3/10/26**  
+
+Cloudflare Developers announced a new **/crawl API endpoint** that allows crawling an entire site with a single API call. No scripts or browser management are needed, and the output can be in **HTML, Markdown, or JSON**. The endpoint returns a job ID for processing and is useful for **model training, RAG, and content monitoring**.
+**Twitter – 4h ago**  
+
+Built 13,000+ programmatic pages in 3 hours, resulting in:  
+- Weekly organic clicks rising from 971 → 5,500  
+- +466% SEO traffic growth in 60 days  
+- ~50% of pages not yet indexed  
+
+No template spam or thin AI content; system generates content programmatically like software.
