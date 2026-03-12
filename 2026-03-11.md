@@ -9,6 +9,7 @@
 
 ## 🔄 Quick Log
 - *(Ocla appends short updates here throughout the day)*
+- **7:16 PM · Award Coatings:** Replaced the broken Make/webhook estimate flow with a live Google Form and embedded it on the homepage plus `/estimate`. Public form: https://docs.google.com/forms/d/e/1FAIpQLScSmJfbrQsF0_1ykOO-ivgbzUecVT22kLAGdTPUGwiAS4Yoow/viewform. Also updated CSP to allow the Google iframe. Follow-up fixes identified: convert `Button` to `forwardRef` for the Radix sheet trigger warning, and stop leaking `fetchPriority` through `ImageWithFallback`. Note: site can track form view/open/call/text clicks, but not final submit inside the Google Forms iframe.
 
 ## 📌 Important Notes (links)
 - [START.md](obsidian://open?vault=%E2%98%85%20Main%20Vault&file=START)
