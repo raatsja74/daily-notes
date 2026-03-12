@@ -83,3 +83,5 @@ Automated reply from OpenClaw showed:
 - WhatsApp number: +16027833208  
 - Pairing code: 6V9PVXS4  
 - Instruction to approve via: `openclaw pairing approve whatsapp 6V9PVXS4`
+
+![[award_coatings_full_strategy.pdf]]
