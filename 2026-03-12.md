@@ -36,6 +36,7 @@ action Todoist completed tasks: Fetch today's completed tasks
 color default
 ```
 %% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
 %% COMPLETED_TODOIST_TASKS_END %%
 
 > [!links]+ Quick Access
@@ -52,3 +53,8 @@ color default
 %% SHARE_START %%
 
 %% SHARE_END %%
+
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
