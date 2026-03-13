@@ -7,3 +7,12 @@ Ad Whisper AI
 Plus the closing deliverables: Top 10 posts to publish this week and Top 5 highest-leverage actions for the next 48 hours.  
 
 Everything is Phoenix/Scottsdale-specific and platform-native. The file is attached — let me know if you want any section revised or expanded.
+
+%% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
+%% COMPLETED_TODOIST_TASKS_END %%
+
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
