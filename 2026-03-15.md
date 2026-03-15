@@ -126,7 +126,13 @@ SORT file.mtime DESC
 
 ## 📝 Notes
 
+### Vault System — Next Actions
+- [ ] Review `USER.md` and replace at least 3 working assumptions with confirmed preferences from real workspace patterns.
+- [ ] Define explicit autonomy boundaries for external actions and record them in `USER.md`.
+- [ ] Decide whether this workspace should use a root `.learnings/` directory or another canonical learning location.
+- [ ] Update `MEMORY.md` after the above decisions so stable preferences are preserved.
 
 ## 🗂️ Session Logs
 
+- **Vault System**: [[99 Logs/[Vault System] - 2026-03-15 - Root Context Bootstrap|Root Context Bootstrap]] - Created root context, heartbeat, and memory files so future sessions can help with less live guidance.
 - **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 1 inbox items to file, 245 frontmatter issues, 7 daily note issues
