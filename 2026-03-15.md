@@ -146,3 +146,10 @@ SORT file.mtime DESC
 %% MISSED_FROM_LOGS_START %%
 - No obvious missed items detected from logs.
 %% MISSED_FROM_LOGS_END %%
+Twitter · 1h  
+
+Sure! So that's pretty much what I've done to grow some newsletters in the tens of thousands (and one to 103k subs before I sold it).  
+
+What I do is create a series of free assets, downloadables, ebooks, guides, etc. and then find other newsletter operators in the same or adjacent niche, and then offer them this free thing they can share with their audience. And their audience essentially just signs up to my newsletter to get the freebie.  
+
+Then I do the same for them. And as your own newsletter grows, you can start looking for larger publications to do swaps with. It's basically a sort of collab. You promote someone else's freebie to your list and you look good to your audience because you're sharing something valuable, and the other person also looks good to their audience because they share a valuable freebie.
