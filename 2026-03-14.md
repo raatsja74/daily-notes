@@ -7,6 +7,26 @@ week: 10
 
 # Saturday, March 14, 2026
 
+## Morning Priorities
+
+### Top 3
+- [ ] Validate the Chrome remote-debugging/OpenClaw browser-control path and decide if this is the first workflow worth shipping.
+- [ ] Finish the Drafts capture loop: import the four Drafts actions and run one end-to-end test into Obsidian, Todoist, Reminders, and Notes.
+- [ ] Clear the live revenue task: post the Arizona Home Maintenance Checklist on Nextdoor and make one Facebook-group touch for Award Coatings.
+
+### Carryover from March 13
+- Workflow orchestration rules were captured, but not turned into a live operating routine yet.
+- The Drafts actions were created and documented, but still need import and verification.
+- Claude shortcut cleanup has a keep list, but the duplicate/junk shortcuts still need to be removed after the browser workflow is stable.
+
+### Key Meetings or Commitments
+- No meetings surfaced in the vault for Saturday, March 14, 2026.
+- Hard commitments from the task board: Nextdoor checklist post due today, two new FB-group touches due today, and the overdue Skylar text should be sent or consciously dropped.
+
+### Biggest Risk to Address First
+- Risk: staying in research mode across OpenClaw, browser control, and memory ideas while revenue-facing tasks slip again.
+- First move: pick one workflow, prove it works in the first block, then switch to the Award Coatings post before doing more tool research.
+
 ## 📝 Notes
 
 
