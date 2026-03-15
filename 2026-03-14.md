@@ -79,3 +79,4 @@ clawdhub search "skill-name"
 clawdhub install skill-name
 ```
 Skills load automatically unless OAuth setup is required.
+![[50 Daily Notes/Attachments/Pasted image 20260314203525.png]]
