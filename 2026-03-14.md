@@ -27,6 +27,10 @@ week: 10
 - Risk: staying in research mode across OpenClaw, browser control, and memory ideas while revenue-facing tasks slip again.
 - First move: pick one workflow, prove it works in the first block, then switch to the Award Coatings post before doing more tool research.
 
+## Dashboard
+
+- [[System Mapping Dashboard]]
+
 ## 📝 Notes
 
 
