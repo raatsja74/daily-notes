@@ -1,22 +1,34 @@
 ---
+kind: daily
 type: daily-note
 date: 2026-03-15
-day: Saturday
+day: Sunday
 week: 11
 energy: low
 ---
 
-# 📅 March 15, 2026
+# Sunday, March 15, 2026
 
-## 🎯 Today's Focus
+## Morning Priorities
 
-> Energy is low — start with quick wins, build momentum.
+### Top 3
+- [ ] Decide the first browser-control workflow worth shipping: validate the Chrome/OpenClaw path and lock the next build step.
+- [ ] Finish the Drafts capture loop end-to-end: import the four actions and confirm one test reaches Obsidian, Todoist, Reminders, and Notes.
+- [ ] Prep Monday's Award Coatings block: tighten the AI GTM prompt bank so the `9:15-10:00 AM` review starts with zero setup.
 
-### Done today
-- [x] Test Telegram group — bot responding ✅
-- [x] Obsidian AI integration audit — Phases 1-3 confirmed complete
-- [x] Set up `.learnings/` self-improvement system
-- [x] Weekly planning — calendar blocks + task cleanup
+### Carryover from March 14
+- The browser-control path looks promising, but it still needs one live proof and a concrete "ship this first" decision.
+- The Drafts actions were created, but the capture loop is not verified end-to-end yet.
+- Shortcut cleanup stays secondary until the browser workflow and capture loop are stable.
+
+### Key Meetings or Commitments
+- No fixed meetings surfaced for Sunday, March 15, 2026.
+- Monday, March 16, 2026 `9:15-10:00 AM`: Review AI GTM prompt bank (Award Coatings).
+- Keep the Wednesday owner-radar block and Thursday OpenClaw deploy block protected, but do not work on them before today's top 3.
+
+### Biggest Risk to Address First
+- Risk: turning Sunday into more system cleanup and tooling research while the one prep task that makes Monday easier stays undone.
+- First move: use the first focused block to choose the first shippable browser workflow, then prep the Award Coatings prompt bank before any more cleanup.
 
 ---
 
@@ -114,3 +126,7 @@ SORT file.mtime DESC
 
 ## 📝 Notes
 
+
+## 🗂️ Session Logs
+
+- **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 1 inbox items to file, 245 frontmatter issues, 7 daily note issues
