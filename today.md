@@ -136,3 +136,13 @@ SORT file.mtime DESC
 
 - **Vault System**: [[99 Logs/[Vault System] - 2026-03-15 - Root Context Bootstrap|Root Context Bootstrap]] - Created root context, heartbeat, and memory files so future sessions can help with less live guidance.
 - **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 1 inbox items to file, 245 frontmatter issues, 7 daily note issues
+
+
+%% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
+%% COMPLETED_TODOIST_TASKS_END %%
+
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
