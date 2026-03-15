@@ -80,3 +80,19 @@ clawdhub install skill-name
 ```
 Skills load automatically unless OAuth setup is required.
 ![[50 Daily Notes/Attachments/Pasted image 20260314203525.png]]
+
+# 2026-03-14
+X - 4:02 PM
+
+ashen @ashen_one · 17h  
+openclaw can now use ur actual chrome browser
+
+not a headless browser or not a sandboxed session but ur chrome
+
+the one u already have open with gmail logged in, notion loaded, whatever
+
+how it works: you enable remote debugging in chrome (one flag), openclaw attaches via chrome devtools protocol, and your agent can now click, fill forms, navigate, and scrape any page as YOU
+
+before this ur agent had to log into everything from scratch every single time in its own isolated browser. now it just uses ur existing session
+
+so if u want ur openclaw agent to check ur google calendar, reply to an email, post to linkedin, manage ur shopify store — it can do all of that without u ever handing it passwords or dealing with oauth flows
