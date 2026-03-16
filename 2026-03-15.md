@@ -127,15 +127,17 @@ SORT file.mtime DESC
 ## 📝 Notes
 
 ### Vault System — Next Actions
-- [ ] Review `USER.md` and replace at least 3 working assumptions with confirmed preferences from real workspace patterns.
-- [ ] Define explicit autonomy boundaries for external actions and record them in `USER.md`.
+- [x] Review `USER.md` and replace at least 3 working assumptions with confirmed preferences from real workspace patterns.
+- [x] Define explicit autonomy boundaries for external actions and record them in `USER.md`.
 - [ ] Decide whether this workspace should use a root `.learnings/` directory or another canonical learning location.
-- [ ] Update `MEMORY.md` after the above decisions so stable preferences are preserved.
+- [x] Update `MEMORY.md` after the above decisions so stable preferences are preserved.
 
 ## 🗂️ Session Logs
 
 - **Vault System**: [[99 Logs/[Vault System] - 2026-03-15 - Root Context Bootstrap|Root Context Bootstrap]] - Created root context, heartbeat, and memory files so future sessions can help with less live guidance.
+- **Vault System**: [[99 Logs/[Vault System] - 2026-03-15 - USER Calibration from Vault Evidence|USER Calibration from Vault Evidence]] - Replaced generic assumptions with observed preferences from recent daily notes and cleanup logs.
 - **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 1 inbox items to file, 245 frontmatter issues, 7 daily note issues
+- **Award Coatings**: [[99 Logs/[Award Coatings] - 2026-03-15 - Autonomous SDR Pipeline Setup|Autonomous SDR Pipeline Setup]] - Built and deployed the autonomous SDR pipeline via an OpenClaw cron job, integrating local-places, Notion, and Todoist for automated lead outreach drafting.
 
 
 %% COMPLETED_TODOIST_TASKS_START %%
@@ -191,3 +193,105 @@ I love it. Use /alien-graveyard and /alien-artifact-coding to make it truly bril
 - Let me harvest the best CS primitives from the graveyard for this problem.
 
 [[05 Automations/Grok Automations/Attachments /x-intel-router.ts]]
+
+---
+# OpenClaw Automations Review
+
+#source/claude-code 
+
+  26 total jobs → my recommendation: keep 8, fix 4, delete 14
+
+  ---
+  ✅ KEEP (working, delivering value)
+
+  ┌───────────────────────────────────┬───────────────────┬──────────────────────────────┐
+  │               Name                │     Schedule      │            Status            │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ Daily /today briefing to iMessage │ 8:05 AM daily     │ Best one — working, delivers │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ Morning Email Digest              │ 8:00 AM daily     │ Working, delivers            │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ Daily Todoist Hygiene             │ 8:00 AM daily     │ Working, delivers            │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ Daily Git Push                    │ 6:00 AM daily     │ Working, delivers            │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ social-monitor-morning-digest     │ 8:30 AM daily     │ Working                      │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ social-monitor-midday-quick       │ 1:00 PM daily     │ Working                      │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ social-monitor-evening-digest     │ 6:30 PM daily     │ Occasional timeout           │
+  ├───────────────────────────────────┼───────────────────┼──────────────────────────────┤
+  │ Google AI Pro trial reminder      │ Mar 17 (tomorrow) │ Self-deletes after           │
+  └───────────────────────────────────┴───────────────────┴──────────────────────────────┘
+
+  ---
+  🔧 FIX (enabled but broken)
+
+  - daily-note-sync-todoist-logs — "Unsupported channel: telegram" — delivery config broken
+  - ac-sdr — "Unsupported channel: imessage" — needs to deliver to telegram instead
+  - automation-social-status-afternoon — timing out (17 min). Main session job with a vague
+  prompt. Either shorten it or switch to isolated+agentTurn.
+  - automation-site-fixes-evening — same timeout issue (15 min)
+
+  ---
+  ⚠️  QUESTIONABLE (probably not doing what you think)
+
+  - Morning Briefing and End of Day Digest — wakeMode: next-heartbeat + lastDeliveryStatus:
+  not-requested. These fire but never actually deliver to you. Redundant with the iMessage
+  /today briefing.
+  - daily-briefing (7 AM) — never run once. Completely redundant with /today briefing.
+  - automation-daily-ops-morning — enabled but keeps skipping with "disabled" error. Something
+  wrong internally.
+  - Weekly reminder: AI GTM workflow review — same issue, enabled but skipping every week.
+  - automation-run-social / automation-leads-midday — these just send reminders to run slash
+  commands manually. If /run-social and /check-leads aren't being acted on, these are noise.
+
+  ---
+  🗑️  DELETE (disabled, past, or junk)
+
+  - Property manager call reminder — 2025 date, long dead
+  - Social Monitor (DISABLED - Ocla-2 handles) — explicitly handed off
+  - Daily CL & FB Posting - PAUSED — if not resuming, clean it up
+  - 8 past one-time reminders still sitting around (FB posts, Scottsdale reminder, Notion trial,
+   SuperGrok trial, Google/Yelp, follow-up check, AI GTM 24h) — all past-dated and disabled,
+  should have self-deleted but didn't
+
+  ---
+  Bottom line: Your working stack is Morning Briefing → Email Digest → Todoist Hygiene → Git
+  Push → Social Monitor × 3. Fix the channel config on daily-note-sync and ac-sdr. Everything
+  else is either dead weight or ghostfire (runs but doesn't reach you).
+
+  Want me to write the cleaned-up jobs.json with just the keepers + fixes?
+
+---
+
+# Proposed Google Drive Reorganziation
+
+#source/gemini
+
+TL;DR: Here is a standardized Google Drive folder hierarchy designed to perfectly mirror your Obsidian vault setup, keeping your active projects, context, and AI session logs seamlessly synced.
+00_Context (Master Files)
+ * Identity_Voice_Profile
+ * Brand_Guidelines/ (Universal shared assets)
+ * ICP_Strategies/ (Ideal Customer Profiles for sales/marketing)
+10_Projects (Active Work)
+ * 10.1_Award_Coatings/ (Marketing, SEO audits, web design, visual identity)
+ * 10.2_AI_Business_Social/ (Content calendar, scripts, teaching assets)
+ * 10.3_FloorQuote/ (AI estimation logic, flooring design assets)
+ * 10.4_OpenClaw_ClawdBot/ (Agent specs, technical documentation)
+ * 10.5_LeadBolt/ (Automation backend, business setup)
+ * 10.6_Social_Bot/ (Automation scripts, engagement tracking)
+60_Canvas (Visuals & Design)
+ * Figma_Exports/
+ * Wireframes/
+ * Design_Assets/
+80_Knowledge_Base (Learning)
+ * AI_Prompt_Library/
+ * LLM_Comparisons/
+ * Tool_Guides/ (Notes on Obsidian, Todoist, etc.)
+90_Systems (Operations)
+ * Todoist_Workflows/
+ * Standard_Operating_Procedures/
+99_Logs (AI Sessions)
+ * Store all chat exports here strictly using your [ProjectName] - YYYY-MM-DD - Description naming convention.
+Would you like me to write a quick Google Apps Script that will automatically generate this exact folder structure in your Drive?
