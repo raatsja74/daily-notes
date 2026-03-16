@@ -12,22 +12,22 @@ energy:
 ## Morning Priorities
 
 ### Top 3
-- [ ] Prep and review the Award Coatings AI GTM prompt bank before the `9:15-10:00 AM` block so the session starts with zero setup.
-- [ ] Decide the first browser-control workflow worth shipping and capture the exact next build step.
+- [ ] Tighten the Award Coatings AI GTM prompt bank before the `9:15-10:00 AM` review so the session starts with zero setup and one clear outcome.
+- [ ] Lock the first browser-control workflow worth shipping by running one live proof and writing the exact next build step.
 - [ ] Finish one end-to-end Drafts capture loop test into Obsidian, Todoist, Reminders, and Notes.
 
 ### Carryover from Yesterday
-- The first browser-control workflow still needs a concrete ship/no-ship decision.
+- The browser-control path still looks promising, but it still needs one live proof and a concrete "ship this first" decision.
 - The Drafts capture loop is still not verified end-to-end.
-- Monday prep should stay ahead of more system cleanup or tooling research.
+- Yesterday's automation review exposed cleanup work, but it stays secondary until the Monday review and one real workflow proof are done.
 
 ### Key Meetings or Commitments
 - `9:15-10:00 AM`: Review AI GTM prompt bank (Award Coatings).
 - Value Post Automation is still on deck for Monday and should stay scoped.
-- Keep the Wednesday owner-radar block and Thursday OpenClaw deploy block protected, but do not work on them before today’s top 3.
+- Keep the Wednesday owner-radar block and Thursday OpenClaw deploy block protected, but do not pull them forward before today's top 3.
 
 ### Biggest Risk to Address First
-- Risk: spending the first work block on browser or system cleanup instead of preparing the Award Coatings review and finishing one real workflow proof.
+- Risk: letting automation cleanup or browser tinkering absorb the morning before the Award Coatings review is ready and one real workflow proof gets done.
 - First move: tighten the prompt bank before `9:15 AM`, then make the browser workflow decision and run one live Drafts capture test.
 
 ---
@@ -126,3 +126,4 @@ SORT file.mtime DESC
 %% MISSED_FROM_LOGS_START %%
 - No obvious missed items detected from logs.
 %% MISSED_FROM_LOGS_END %%
+- **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 2 inbox items to file, 3 frontmatter issues, 8 daily note issues
