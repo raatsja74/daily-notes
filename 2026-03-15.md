@@ -108,7 +108,7 @@ energy: low
 - Added `.learnings/` self-improvement system
 - Telegram group IDs are negative numbers; invite links ≠ group IDs
 
-## 📂 Files touched today (created or edited)
+## 📂 Files Touched Today (created or edited)
 
 ```dataview
 TABLE WITHOUT ID
@@ -189,3 +189,5 @@ I love it. Use /alien-graveyard and /alien-artifact-coding to make it truly bril
 └ Successfully loaded skill  
 
 - Let me harvest the best CS primitives from the graveyard for this problem.
+
+[[05 Automations/Grok Automations/Attachments /x-intel-router.ts]]
