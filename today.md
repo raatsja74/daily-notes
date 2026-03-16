@@ -127,3 +127,14 @@ SORT file.mtime DESC
 - No obvious missed items detected from logs.
 %% MISSED_FROM_LOGS_END %%
 - **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 2 inbox items to file, 3 frontmatter issues, 8 daily note issues
+11:53  
+
+ollama @ollama · 18h  
+Ollama is now an official provider for OpenClaw.  
+
+openclaw onboard --auth-choice ollama  
+
+All models from Ollama will work seamlessly with OpenClaw.  
+🦞 Use it for the tasks you want, all from your chat app.  
+
+Thank you @steipete for helping and reviewing. 🦞
