@@ -90,3 +90,4 @@ SORT file.mtime DESC
 %% MISSED_FROM_LOGS_START %%
 - No obvious missed items detected from logs.
 %% MISSED_FROM_LOGS_END %%
+- **Vault Health**: [[90 Systems/Vault Maintenance/reports/latest-health-report|Daily Health Check]] - 🔴 2 inbox items to file, 10 frontmatter issues, 10 daily note issues
