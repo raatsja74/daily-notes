@@ -84,6 +84,9 @@ SORT file.mtime DESC
 
 ## 📝 Notes
 
+**Vault System Session (16:20)**
+- Documented Antigravity configuration and terminal automation workflow
+- Details: [[99 Logs/[Vault System] - 2026-03-23 - Documented Antigravity Setup|Full log]]
 
 ## 🔗 Shared or Referenced Today
 %% SHARE_START %%
@@ -151,4 +154,198 @@ You can absolutely clean this up: we’ll simplify your labels, set up auto-sort
 High-level game plan
 - Shrink your label list to a small set of “buckets” (Leads, Finance, Automations, Personal, etc.) and merge or delete the rest.
 - Turn on filters/automatic labeling so newsletters, AI alerts, and automation emails skip your main Inbox.  
+---
+Notes Summary
+
+3/23/26
+
+Processed to Obsdian Daily Note
+
+Here’s your content broken into even, manageable blocks for easier processing:
+
+  
+
+---
+
+  
+
+1. Accounts & Color Coding
+
+- me@jadenraats.com – Orange  
+
+  Active: ChatGPT  
+
+- jadenraats@gmail.com – Pink  
+
+  Active: ChatGPT  
+
+  
+
+---
+
+  
+
+2. Memory & Response Rules
+
+- No intro explanations; give direct answers  
+- Content-only responses when creating notes  
+- Solo workflow (no team members)  
+- No sycophancy  
+- Provide 3 follow-up questions if they add value  
+- Pushback and different viewpoints encouraged  
+
+  
+
+---
+
+  
+
+3. Tools & Setup
+
+Tools used:  
+
+Gemini, ChatGPT, Codex, Claude, Claude Code, OpenClaw, Perplexity, Grok, Obsidian, Apple Notes, Todoist, Reminders, Antigravity IDE, NotebookLM, Google Sheets/Docs, iCloud, Box, Google Drive.  
+
+  
+
+Hardware:  
+
+2 MacBooks, iPhone, VPS (Hetzner “Clanker”)  
+
+  
+
+Goal:  
+
+Automate epoxy floor business marketing & lead response using OpenClaw  
+
+  
+
+---
+
+  
+
+4. Persistent Problems
+
+- Too many notes / context overload  
+- Hard to pick best tools or workflows quickly  
+- ADHD / task switching between multiple AI tools  
+- Task & note routing issues  
+- Managing use rates for paid/free tools  
+- Responses too long or hard to digest  
+- Need all-purpose prompt for concise outputs  
+
+  
+
+---
+
+  
+
+5. Organization Workflow
+
+6. Log finished tasks in Todoist  
+7. Log actions in Obsidian  
+8. Tag source content origin  
+
+  
+
+---
+
+  
+
+6. Subscriptions
+
+- ✅ Notion (ends 3/23)  
+- ✅ Gemini (3/15)  
+- ⬜ Claude (4/3)  
+- ✅ Apple Designer Studio  
+- ✅ Apple TV  
+- ⬜ Hetzner  
+
+  
+
+---
+
+  
+
+7. Config File Paths
+
+- OpenClaw: ==/Users/jadenraats/.openclaw/openclaw.json==  
+- Codex: ==~/Library/CloudStorage/GoogleDrive-.../.codex/config.toml==  
+
+  
+
+---
+
+  
+
+8. Core To-Do & Ideas
+
+- Map Obsidian/Drafts/Notes tags to canvas  
+- Log custom AI instructions & tool connections  
+
+- Automate token usage reminders for Claude/ChatGPT  
+
+- Curated content app for distraction-free media  
+- ==Post casually to X as a personal journal  !!!important==
+
+---
+
+  
+
+9. Project Setup (Codex & Antigravity)
+
+- OpenClaw: ==~/Developer/Tools/openclaw== + related folders  
+- Award Coatings: ==~/Developer/Projects/Award-Coatings== + logs  
+- LeadBolt, FloorQuote, jadenraats.com, AI & MCP Tools – separate structured project directories  
+
+  
+
+---
+
+  
+
+10. OpenClaw Setup Workflow
+
+Phased setup guide for a dual-business contractor assistant:  
+
+1. Install & onboard OpenClaw  
+2. Configure SMS via Twilio  
+3. Create single business-aware agent  
+4. Build agent identity & response rules  
+5. Knowledge base & market pricing files  
+6. SMS & photo handling templates  
+7. Memory architecture for leads/customers  
+8. Launch, testing, cost optimization, maintenance  
+
+  
+
+---
+
+  
+
+11. Skills & Automation
+
+- CRM automation  
+- Meeting action item extraction  
+- Urgent email detection  
+- Knowledge base & RAG search  
+- Social media performance tracking  
+- Video ideas, earnings reports, health tracking  
+- Orchestrator skill for deciding next steps  
+
+  
+
+---
+
+  
+
+12. Revenue Push (Award Coatings)
+
+- Launch Google LSA ($100/week)  
+- Post transformations on Nextdoor  
+- Follow up with past quotes  
+- Maintain infrastructure: OpenClaw, Telegram bots, ChatGPT auth  
+
+  
+
 ---
