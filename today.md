@@ -186,4 +186,37 @@ Here is the complete optimized configuration, organized by function:
 
 **Backup**: Obsidian Git (auto-commit every 10 minutes, push to private GitHub repo) — this is especially critical now that AI agents have write access to your vault. 
 
-The key insight is that **Obsidian’s value compounds nonlinearly with AI integration**. Every note you write becomes retrievable context for AI agents. Every link you create enriches the knowledge graph  that graph-aware MCP servers can traverse.  Every template you build becomes executable by AI via MCP Tools. The system gets smarter as you use it — and unlike SaaS platforms, you own every byte of that intelligence. 
+The key insight is that **Obsidian’s value compounds nonlinearly with AI integration**. Every note you write becomes retrievable context for AI agents. Every link you create enriches the knowledge graph  that graph-aware MCP servers can traverse.  Every template you build becomes executable by AI via MCP Tools. The system gets smarter as you use it — and unlike SaaS platforms, you own every byte of that intelligence. ---
+10:21 AM
+
+Compare & Renewals  
+Cost vs usage · Renewal calendar · Keep / Watch / Cancel decisions
+
+COST VS USAGE — $79.99/mo total
+
+Gemini Advanced — $19.99/mo — 3/30 — 6 — Undecided  
+Personal ChatGPT — $20/mo — 12/30 — 24 — Undecided  
+Claude Pro — $20/mo — 22/30 — 44 — Undecided  
+Cursor Pro — $20/mo — 26/30 — 52 — Undecided
+
+Renewals — Next 30 Days  
+- Cursor Pro: 2d · $20.00  
+- ChatGPT Plus: 7d · $20.00  
+- Claude Pro: 13d · $20.00  
+- Google One AI Premium: 21d · $19.99
+
+Cost Breakdown  
+- ChatGPT Plus: $20.00 (25% of spend)  
+- Claude Pro: $20.00 (25% of spend)  
+- Cursor Pro: $20.00 (25% of spend)  
+- Google One AI Premium: $19.99 (25% of spend)
+---
+
+%% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
+%% COMPLETED_TODOIST_TASKS_END %%
+
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
