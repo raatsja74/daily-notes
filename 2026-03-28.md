@@ -31,3 +31,13 @@ No events returned from gog today.
 1. **Facebook groups** — just join + engage, 20 min. Clears the blocker.
 2. **Epoxy refund** — quick admin task, close it out.
 3. **Truck** — whatever this is, surface and act.
+
+
+%% COMPLETED_TODOIST_TASKS_START %%
+- None yet today.
+%% COMPLETED_TODOIST_TASKS_END %%
+
+
+%% MISSED_FROM_LOGS_START %%
+- No obvious missed items detected from logs.
+%% MISSED_FROM_LOGS_END %%
