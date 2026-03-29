@@ -102,3 +102,29 @@ SORT file.mtime DESC
 %% MISSED_FROM_LOGS_START %%
 - No obvious missed items detected from logs.
 %% MISSED_FROM_LOGS_END %%
+---
+7:38 AM – Perplexity
+
+🎯 High Risk/Highest Reward Workflows
+
+1. Fully Automated Lead Scraping & Cold Outreach  
+- **What it does:** Uses OpenClaw to scrape local business data (Google Maps, Facebook Groups, Nextdoor) for homeowners/contractors, qualifies leads via AI, and pushes them into automated cold email/SMS sequences (e.g., via Instantly).  
+- **High reward:** Generates 200+ qualified leads/day without database subscriptions; reduces manual prospecting time by 80%+; fuels predictable sales pipeline for epoxy jobs.  
+- **High risk:** Violates platform ToS (scraping may trigger IP bans); risks spam complaints/CAN-SPAM violations if opt-out handling isn’t flawless; poor lead quality can damage sender reputation.
+
+2. AI Meta Ads Manager (24/7 Campaign Optimization)
+
+------
+7:43
+
+**Note to Fix Drafts Actions**
+
+- Review the script in the Drafts action triggering the error.  
+- Error: `TypeError: undefined is not an object (evaluating 'lines[curIndex].length')`  
+- Occurs at **Line 645, Column 22**.  
+- Likely cause: `curIndex` is out of bounds or `lines[curIndex]` is undefined.  
+- Action Steps:  
+  1. Add a check to ensure `curIndex` is within the array length before accessing.  
+  2. Log `lines` and `curIndex` values during execution for debugging.  
+  3. Test the action with various input lengths.  
+---
