@@ -17,9 +17,9 @@ energy:
 ## Morning Priorities
 
 ### Top 3
-- [ ] Run the `Screenshot to Todoist` flow once end-to-end and confirm the first screenshot lands in Todoist.
-- [ ] Create the first real workflow note from [[60 Workflows/00 Active Workflows/_Workflow Template]].
-- [ ] Close one carryover from [[50 Daily Notes/2026-03-28]]: Facebook groups, epoxy refund, or truck.
+- [ ] Finish vault-manager skill.
+- [ ] Review FB ads workflow.
+- [ ] Respond to any leads from Saturday.
 
 ### Carryover from Yesterday
 - Yesterday added real system scaffolding: [[05 Automations/MacOS/README]] now documents screenshot intake to Todoist, and [[60 Workflows/00 Active Workflows/Active Workflows README]] defines how active workflows should live in the vault.
