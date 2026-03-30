@@ -127,4 +127,66 @@ SORT file.mtime DESC
   1. Add a check to ensure `curIndex` is within the array length before accessing.  
   2. Log `lines` and `curIndex` values during execution for debugging.  
   3. Test the action with various input lengths.  
+------
+openclaw.json - 5:53 PM
+
+```json
+"channels": {
+    "telegram": {
+        "groups": {
+            "-1003795755229": {
+                "topics": {
+                    "119": {
+                        "systemPrompt": "This is the Twitter-related content topic. Treat this thread as the place where all Twitter-related ideas, drafts, feedback, and tasks should..."
+                    },
+                    "171": {
+                        "systemPrompt": "This topic is for writing content. Moritz will give instructions to write something, and your task is to write it. Use model aligned writing tasks. All writing and context lives in /Users/moritzkremb/.openclaw/workspace/Content. When asked to write short-form video scripts, default to the latest week folder in /Users/moritzkremb/.openclaw/workspace/Content/shortform-scripts."
+                    },
+                    "303": {
+                        "systemPrompt": "This topic is for sponsorship management. Primary pipeline support: capture leads, track negotiations, draft outreach/follow-up, update status, and flag next actions."
+                    }
+                }
+            },
+            "-5183874500": {
+                "systemPrompt": "This group is dedicated to journaling. Treat Moritz’s messages here as journal entries, reflections, or prompts related to his daily/weekly reflection practice. Always append Moritz’s journaling updates to /Users/moritzkremb/.openclaw/workspace/journal/YYYY-MM-DD.md (Europe/Berlin), preserving existing structure, before replying. Help with concise journaling prompts, structure, and reflection follow-ups when useful. Keep responses supportive..."
+            }
+        }
+    }
+}
+```
+------
+Excalidraw - 18:05
+
+Control Center  
+- YouTube Planning  
+- Twitter  
+- Writing  
+- Sponsorships
+
+Idea Capture  
+DMs → all-ideas.md  
+YouTube AI → Inspiration.md  
+Twitter → #research
+
+Weekly Planning  
+Monday 0800 CDT  
+Read all idea files  
+Outputs planning md  
+→ Telegram: Planning
+
+Script Writing  
+shortform-guides/ymm-sell-IV  
+Style guide for tone  
+AI assists on hooks
+
+Filming  
+Teleprompter app
+
+Editor Workflow (optional)
+
+Posting  
+gdown → download video  
+Recast CLI
 ---
+## Workflow for social posting with OpenClaw
+![[60 Workflows/Social Posting OpenClaw Workflow for X.jpg]]
