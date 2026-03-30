@@ -189,4 +189,12 @@ gdown → download video
 Recast CLI
 ---
 ## Workflow for social posting with OpenClaw
-![[60 Workflows/Social Posting OpenClaw Workflow for X.jpg]]
+![[60 Workflows/Social Posting OpenClaw Workflow for X.jpg]]---
+Review main vault … Dropbox 9:52 AM
+
+create 1 note that all the agents will use to re-reference and add logs too to keep things in sync. Just add that note to my desktop
+
+Created the coordination note on your Desktop: **Main Vault Split - Agent Sync.md.**  
+
+It includes the fixed decisions, key paths, current status, active work queue, and an append-only log format so other agents can use one shared source of truth and keep each other in sync.
+---
