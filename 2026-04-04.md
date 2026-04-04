@@ -15,4 +15,12 @@ You can upload any important email to Slack by forwarding it to a unique email a
 
 b64lh3b0u18b6z0@jadenraats.slack.com
 
+------
+6:23 AM  
+OpenRouter
+
+Credits  
+Personal Account: jadenraats@gmail.com  
+
+$13.00
 ---
