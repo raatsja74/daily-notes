@@ -35,4 +35,15 @@ Research Websites
 (5) For each action, determine the core business outcome, required assets or skills to build, compelling demonstration examples, and the expected timeline to visible value.  
 (6) Format the synthesized findings into a comprehensive strategy including a brief summary, a detailed 10-row Markdown table matching the user-specified columns, and a 30-to-90-day execution plan.
 
+------
+OpenRouter - 3:42 PM
+
+Default Model  
+Apps will use this model by default, but they may override it if they choose to do so.  
+This model will also be used as your default fallback model.  
+
+Kimi K2.5
+
+Saved  
+Auto Router configuration saved successfully
 ---
