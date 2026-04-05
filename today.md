@@ -1,13 +1,6 @@
 ---
-type: daily-note
-date: 2026-04-05
-day: Sunday
-week: 13
+4:24 AM
+
+Google Voice number for jadenraats@icloud.com: (480) 630-2215  
+To complete setup, you need to verify your existing phone number
 ---
-
-# Sunday, April 05, 2026
-
-## 📝 Notes
-
-
-
