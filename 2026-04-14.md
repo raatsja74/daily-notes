@@ -11,3 +11,15 @@ week: 15
 
 
 
+---
+Time: 4:08 PM
+
+Family Room - Terminator Genisys  
+1:09:13 / -56:30
+
+Maybe: Jonathan  
+I want it stump grind and hauled away
+
+Maybe: Jonathan  
+163 Crestview Dr, Bigfork, MT 59911
+---
