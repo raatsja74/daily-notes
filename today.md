@@ -22,4 +22,14 @@ I want it stump grind and hauled away
 
 Maybe: Jonathan  
 163 Crestview Dr, Bigfork, MT 59911
+------
+6:46  
+
+Your shipment is now available to schedule!  
+
+The Home Depot has assigned Hub Group to pickup your merchandise. **Your return is now available to schedule.** To schedule online, please click the link below. Otherwise, our **local dispatch** teams will be contacting you within the next 2 business days to schedule.  
+
+Your HG tracking number is: **R0283241**  
+
+CLICK HERE TO SCHEDULE YOUR ORDER
 ---
