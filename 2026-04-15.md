@@ -97,4 +97,20 @@ Claude Code just got it's biggest upgrade yet
 The desktop app is now by far the best way to be building apps with AI, even better than the CLI
 
 In this video I cover every single change and a few workflows for vibe coding faster than ever, even if you've never coded before:
+------
+Claude - 2:26 PM
+
+Installed on your computer  
+- Control Chrome  
+- Filesystem  
+- Read and Send iMessages  
+- Read and Write Apple Notes  
+- Figma  
+- Drafts  
+- pdf-viewer  
+- Apify MCP server  
+- Macos  
+- Vibe Prospecting  
+- Control your Mac  
+- Desktop Commander
 ---
