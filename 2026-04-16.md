@@ -11,3 +11,9 @@ week: 15
 
 
 
+---
+12:52  
+
+Stop Making Things Hard  
+Just keep things moving, post daily, you are doing way more then your peers
+---
