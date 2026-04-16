@@ -141,4 +141,17 @@ Once you’ve downloaded them, I can help with anything else on the tax list.
 ------
 Add Montana/Flathead Valley Landing page to awardcoatings.com
 
+------
+6:32 PM  
+
+Sonnet 4.6  
+
+1. Mapped out full OpenClaw workflow system  
+2. Designed automation & tracking architecture  
+3. Identified personal workflow bottlenecks + cleanup plan  
+
+How I’ll Improve:  
+1. Stop saving everything — filter notes before logging  
+
+Want me to also push the **Immediate To-Dos** from your notes as reminders?  
 ---
