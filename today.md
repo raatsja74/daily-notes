@@ -38,4 +38,19 @@ Draft a follow-up text/email for a homeowner who requested a quote 3 days ago bu
 
 Write a full transcript on the latest startup ideas
 
+------
+X - 10:26 PM
+
+ollama @ollama · 4h  
+Build your own assistant with @NVIDIAAI. ❤️
+
+NVIDIA AI @NVIDIAAI · 7h  
+Here's your weekend project. Build a fully local, sandboxed AI assistant.  
+
+Step-by-step tutorial to build your always-on agent:  
+🦞 on openclaw  
+✅ with NVIDIA NemoClaw  
+✨ using NVIDIA DGX Spark  
+
+Get started: developer.nvidia.com/blog/build-a-s…
 ---
