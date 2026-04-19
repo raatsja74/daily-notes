@@ -16,4 +16,9 @@ Claude - 4:59 PM
 
 Saved to your vault at 35 Integrations/Cowork Plugins.md. Lists all 7 installed plugins with versions, authors, and install/update dates. The customized brand-voice plugin is noted separately with a pointer to its settings file.
 
+------
+Claude • 7:30 PM
+
+Claude Design is in research preview with its own weekly limit. Usage here doesn't count toward your other limits.
+
 ---
