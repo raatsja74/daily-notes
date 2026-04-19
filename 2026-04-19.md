@@ -141,3 +141,23 @@ This note captures a high-level storage strategy for organizing work files acros
 #workflow #organization #productivity #knowledgeManagement #AI
 
 **12:23 PM – Codex / Claude Chat**
+**12:42 PM – Codex**
+
+# Weekly Systems Review – Automation Overview
+
+### Core Concept
+This automation in Codex performs a **Weekly Systems Review**, evaluating what is functioning well, where friction exists, and which operational areas lack documentation. It prioritizes the **top three system improvements** for the upcoming week, emphasizing leverage and maintenance rather than general journaling.
+
+### Key Takeaways/Quotes
+- “Produce a concise weekly systems review covering what is working, what is creating friction, which operational areas are under-documented, and the top 3 system improvements to make next.”  
+- Runs **weekly on Sundays at 5:00 PM**, with the last run at **4:03 AM today**.  
+- Uses **GPT-5.4** with **Extra High Reasoning** for precise system assessments.
+
+### Suggested Tags
+#AI  
+#workflow  
+#productivity  
+#system-review  
+#automation  
+
+**12:42 PM – Codex**
