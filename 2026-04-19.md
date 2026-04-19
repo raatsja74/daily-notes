@@ -126,3 +126,18 @@ Default routing until I build a proper router:
 - Save finalized assets to Obsidian vault → Marketing folder.
 - No `currentColor` + `filter` CSS for logos -- use explicit colors.
 - Draft client emails directly, don't use browser automation tools.
+
+**12:23 PM – Codex / Claude Chat**
+
+**Core Concept:**  
+This note captures a high-level storage strategy for organizing work files across Google Drive, iCloud, and Dropbox. Each platform is assigned a distinct purpose: business canon, thinking/context, and systems/evidence, respectively. The workflow emphasizes clarity in where to store assets for projects, AI-agent workflows, and long-term reference.
+
+**Key Takeaways/Quotes:**  
+- **Google Drive →** Award Coatings business files, shared docs, operational assets, anything company-canonical.  
+- **iCloud →** Obsidian vaults, knowledge, reference notes, project context, AI-agent workflows and memory.  
+- **Dropbox →** Systems layer, tools, detailed workflow docs, screenshots, intake material, and future-reference artifacts.
+
+**Suggested Tags:**  
+#workflow #organization #productivity #knowledgeManagement #AI
+
+**12:23 PM – Codex / Claude Chat**
