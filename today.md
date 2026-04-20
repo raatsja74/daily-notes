@@ -25,3 +25,17 @@ drafts://open?uuid=3E704F58-7969-49D5-A87E-9CF29A33F1BD
 Systems & Automations Tasks
 
 - [ ] Run tasks that check on things that are being updated (e.g., tracking Award Coatings presence on Facebook)  
+**8:10 AM – Twitter (Mobile)**
+
+**Core Concept:**  
+The screenshot captures a prompt asking the user to classify an item into categories like "Tasks Extractor," "Log Completed Actions," "Knowledge & Reference," or "Receipt." This likely relates to organizing or processing data for personal knowledge management or automation. The highlighted selection, **"Knowledge & Reference,"** indicates the intent to save the item for future reference.
+
+**Key Takeaways/Quotes:**  
+- Options suggest a workflow involving categorizing information for tasks, logs, knowledge, or receipts.  
+- Selected **"Knowledge & Reference"** aligns with building a personal knowledge base.  
+- The source link references **Claude Code Docs** about configuring permissions.
+
+**Suggested Tags:**  
+#knowledgeManagement #productivity #workflow #AI #automation
+
+**8:10 AM – Twitter (Mobile)**
