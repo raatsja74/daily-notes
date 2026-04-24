@@ -109,3 +109,13 @@ This screenshot shows the **Box app** acting as a centralized hub for syncing al
 #Box #workflow #logging #automation #centralization  
 
 **10:42 AM – Box App**  
+
+## Clanker Setup Notes
+[Box](https://app.box.com/s/g0wy5ixccmy9zb1ytji6py4zrtzljb4s)
+
+Agent.md, user.md, soul.md
+
+Not active
+
+# Todo
+### - [ ] Set up Agent Logging Template ![[99 Logs/Agent Logging Template|Agent Logging Template]]
