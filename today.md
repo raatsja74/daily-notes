@@ -94,3 +94,5 @@ SORT file.mtime DESC
 - [ ]
 ### - [ ] Set up Agent Logging Template ![[99 Logs/Agent Logging Template|Agent Logging Template]]
 - [ ] Update Instructions for Agents that are logging: 
+
+[[10 Projects/★ Paperclip/deep-research-report]]
