@@ -17,6 +17,7 @@ Action Items
 - [ ] Post Friday daily routine kickoff on X (reply to 10 accounts, share 1 week’s lesson with screenshot)  
 - [x] Call Miller  [completion:: 2026-04-20]
 - [ ] Run tasks that check on things that are being updated (e.g., tracking Award Coatings presence on Facebook)  (status check automations)
+- [ ] Find what out [[20 Areas/Slash Commands/Codex Commands|Codex Commands]], [[20 Areas/Slash Commands/Claude Commands|Claude Commands]], and [[20 Areas/Slash Commands/OpenClaw Commands|OpenClaw Commands]]
 
 - [ ]
 - [ ]
