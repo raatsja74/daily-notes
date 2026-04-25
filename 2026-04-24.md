@@ -119,3 +119,11 @@ Not active
 
 # Todo
 ### - [ ] Set up Agent Logging Template ![[99 Logs/Agent Logging Template|Agent Logging Template]]
+# Systems TODO
+- [ ] Update Instructions for Agents that are logging: 
+
+I dont need kind, type, outcome, 
+
+The most important things are source/agent and a link to its own chat if possible: source/url. And Status done/todo. Project with task included ex. Awardcoatings/SEO. And also linked notes links or file paths if needed 
+
+---
