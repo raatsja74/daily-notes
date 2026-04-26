@@ -1,24 +1,22 @@
 ---
-status: review
+kind: daily
+type: daily-note
+date:
+day:
+week:
+energy:
 ---
+
 # Daily Note
 
 > [!important]
-> Keep this note concise and operational..
-> 
-> When adding content source who you are (link/tool)
-# Top 3 Tasks
-Action Items
-- [ ] Audit active lead sources (Nextdoor, Facebook, GBP, Craigslist)  
-- [ ] Finish [[10 Projects/★ Award Coatings/AwardCoatings.com Website Fixes|AwardCoatings.com Website Fixes]] Excalidraw editing
-- [ ] Set up lead tracking system (spreadsheet or Notion)  
-- [ ] Identify lead generation gaps — determine where leads are not coming from  
-- [ ] Define a weekly lead generation routine  
-- [ ] Post Friday daily routine kickoff on X (reply to 10 accounts, share 1 week’s lesson with screenshot)  
-- [x] Call Miller  [completion:: 2026-04-20]
-- [ ] Run tasks that check on things that are being updated (e.g., tracking Award Coatings presence on Facebook)  (status check automations)
-- [ ] Find what out [[20 Areas/Slash Commands/Codex Commands|Codex Commands]], [[20 Areas/Slash Commands/Claude Commands|Claude Commands]], and [[20 Areas/Slash Commands/OpenClaw Commands|OpenClaw Commands]] are.
+> Keep this note concise and operational.
+> Manual thinking belongs in `## 📝 Notes`.
+> Automations should only write inside named blocks or clearly designated sections.
 
+## Morning Priorities
+
+### Top 3
 - [ ]
 - [ ]
 - [ ]
@@ -26,18 +24,28 @@ Action Items
 ### Carryover from Yesterday
 - 
 
+### Key Meetings or Commitments
+- 
+
 ### Biggest Risk to Address First
 - Risk:
 - First move:
 
 ---
-## This Week
+
+## 📅 This Week
 - 
 
-## Needs Decision (This Week)
-- 
+## 📋 Needs Decision (This Week)
+- [ ]
 
-## Backlog (Not This Week)
+## 💰 Money to Collect
+- [ ]
+
+## 🔧 Maintenance (When You Have Time)
+- [ ]
+
+## 🗄️ Backlog (Not This Week)
 - 
 
 ---
@@ -64,8 +72,8 @@ WHERE file.path != this.file.path
 SORT file.mtime DESC
 ```
 
-## Created Today
-![[00 Inbox/Created Today.base|Created Today]]
+## 📝 Notes
+- 
 
 ## 🔗 Shared or Referenced Today
 %% SHARE_START %%
@@ -83,16 +91,27 @@ SORT file.mtime DESC
 - No obvious missed items detected from logs.
 %% MISSED_FROM_LOGS_END %%
 
-- [ ] Audit active lead sources (Nextdoor, Facebook, GBP, Craigslist)  
-- [ ] Set up lead tracking system (spreadsheet or Notion)  
-- [ ] Identify lead generation gaps — determine where leads are not coming from  
-- [ ] Define a weekly lead generation routine  
-- [ ] Post Friday daily routine kickoff on X (reply to 10 accounts, share 1 week’s lesson with screenshot)  
-- [ ] Run tasks that check on things that are being updated (e.g., tracking Award Coatings presence on Facebook)  (status check automations)
+- [ ] Finish vault-manager skill.
+- [ ] Review FB ads workflow.
+- [ ] Respond to any leads from Saturday.
+- [ ] What is the first workflow worth operationalizing: screenshot intake or browser control?
+- [ ] Should screenshot intake live in the default screenshot folder, Dropbox, or the developer folder?
 - [ ]
-- [ ]
-- [ ]
-### - [ ] Set up Agent Logging Template ![[99 Logs/Agent Logging Template|Agent Logging Template]]
-- [ ] Update Instructions for Agents that are logging: 
+**10:56 PM – Outlook Email Creation**
 
-[[10 Projects/★ Paperclip/deep-research-report]]
+---
+
+### Core Concept
+This note records the creation of a **new Outlook email account**. The new address is `jadens-assistant@outlook.com`, set up via Microsoft’s signup portal.
+
+### Key Takeaways / Quotes
+- **New Email Created:** `jadens-assistant@outlook.com`  
+- **Signup Completed Through:** `signup.live.com`  
+- This account is ready for future use and login.
+
+### Suggested Tags
+#outlook #email #accountsetup #productivity
+
+---
+
+**10:56 PM**
