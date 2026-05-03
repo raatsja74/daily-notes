@@ -19,3 +19,8 @@ week: 17
 - [ ] Should the first workflow implementation be Todoist → GitHub sync or Drafts/Obsidian capture processing?
 - [ ]
 - [ ] Reconcile the two `Current Antigravity Setup` notes into one trusted source.
+
+---
+#### captured [[2026-05-03]] at `05:04`
+
+Sms
